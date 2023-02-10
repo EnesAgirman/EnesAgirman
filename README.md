@@ -4,9 +4,6 @@ I am Enes Ağırman from Turkey. I love coding, making music and playing basketb
 
 I am a third year electrical and electronics engineering student at Bilkent University
 
-I am currently learning java in my CS-102 class
-
-I am currently learning how to use github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAgirman)](https://github.com/anuraghazra/github-readme-stats)
 
