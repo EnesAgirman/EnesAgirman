@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Enes Ağırman from Turkey. I love coding, making music and playing basketball
+I am Enes Ağırman from Bilkent University/Ankara. I love coding, making music and playing basketball. I feel very excited about machine learning, especially solving computer vision problems using deep learning.
 
-I am a third year electrical and electronics engineering student at Bilkent University
+I am a forth year electrical and electronics engineering student at Bilkent University
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAgirman)](https://github.com/anuraghazra/github-readme-stats)
